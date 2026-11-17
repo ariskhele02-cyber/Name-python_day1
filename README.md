@@ -1,12 +1,19 @@
 # Name-Python Day 1 - By aris_future_hacker 🇹🇿
 
-My first day learning Python! I am 17, from Tanzania.
+# Day 1 - My First Python Program
 
-## My Projects:
-- Assignment 1: ID Card
-- Assignment 2: Calculator
-- Assignment 3: Secret Password
-- Assignment 4: Age Check
-- Assignment 5: Mini Kali Login - BOSS DEFEATED!
+Hello, My name is aris, I am 17 years old, I am from Tanzania
 
-Day 1 = COMPLETE ✅
+## What I learned today:
+- How to use GitHub on my phone
+- How to create a .py file
+- How to use input() and print()
+- How to use f-strings
+
+## My Code: ID CARD
+Asks for name, age, country and prints a greeting.
+
+## Output:
+Hello, My name is aris, I am 17 years old, I am from Tanzania
+
+Day 1 = DONE!
